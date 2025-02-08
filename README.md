@@ -4,7 +4,7 @@
 
 ### Telegram bot to create direct links with pre-filled text for WhatsApp Chats
 
-> You can check our bot [here](https://t.me/WhatsAppAPIbot).
+> You can check our bot [here](https://t.me/MdFuturev1_bot).
 
 The bot is based on the API [provided](https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/) by WhatsApp.
 
